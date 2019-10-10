@@ -8,35 +8,38 @@
 
 | Title                                                                                                                                                          | Types            | Created At |  Status   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | :--------: | :-------: |
-| Check Sracom Button Position                                                                                                                                   | Web + IoT        | 2019.08.07 |  Limited  |
-| Simple OSM [[site]](https://osm.t88.jp)                                                                                                                        | Web              | 2019.07.21 |   Open    |
-| Sapporo City WiFi Map [[site]](https://sap-wifi-map.tacck.net)                                                                                                 | Web              | 2019.07.12 |   Open    |
-| Nyan Nyan Nyan [[site]](https://nyan3.tacck.net)                                                                                                               | Web              | 2018.10.16 |   Open    |
-| いつものチェック [[Clova Skill Store]](https://clova-skill-store.line.me/appbridge#target=extensionDetail&extensionId=net.tacck.apps.clova.confirm_lost_items) | Clova Extensions | 2018.10.06 |   Open    |
-| りすとる / listall                                                                                                                                             | Web              | 2018.01.02 |  Private  |
-| Push & Done!                                                                                                                                                   | Android          | 2013.07.29 |  Closed   |
-| 色さがし / Color Scheme Checker                                                                                                                                | Android          | 2013.06.02 |  Closed   |
-| EML Simulator for Android [[site]](https://bitbucket.org/tacck/eml_simulator_android/wiki/Home)                                                                | Android          | 2012.12.02 | Code Only |
+| 簡単ペアメーカー [[Alexa Skill Store]](https://www.amazon.co.jp/dp/B07XXTZ8DR/)                                                                                | Alexa Skill      | 2019/09/16 |   Open    |
+| Check Sracom Button Position                                                                                                                                   | Web + IoT        | 2019/08/07 |  Limited  |
+| Simple OSM [[site]](https://osm.t88.jp)                                                                                                                        | Web              | 2019/07/21 |   Open    |
+| Sapporo City WiFi Map [[site]](https://sap-wifi-map.tacck.net)                                                                                                 | Web              | 2019/07/12 |   Open    |
+| Nyan Nyan Nyan [[site]](https://nyan3.tacck.net)                                                                                                               | Web              | 2018/10.16 |   Open    |
+| いつものチェック [[Clova Skill Store]](https://clova-skill-store.line.me/appbridge#target=extensionDetail&extensionId=net.tacck.apps.clova.confirm_lost_items) | Clova Extensions | 2018/10.06 |   Open    |
+| りすとる / listall                                                                                                                                             | Web              | 2018/01.02 |  Private  |
+| Push & Done!                                                                                                                                                   | Android          | 2013/07/29 |  Closed   |
+| 色さがし / Color Scheme Checker                                                                                                                                | Android          | 2013/06/02 |  Closed   |
+| EML Simulator for Android [[site]](https://bitbucket.org/tacck/eml_simulator_android/wiki/Home)                                                                | Android          | 2012/12/02 | Code Only |
 
 ## Wrote Codes
 
 [GitHub](https://github.com/tacck)
 
-| Title                                                                                                          | Types        | Language                   | Created At |
-| -------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------- | :--------: |
-| VuePress and Vue-Google-AdSense Sample [[site]](https://github.com/tacck/vuepress-google-adsense-sample)       | Web          | VuePress (Vue.js)          | 2019/09/10 |
-| Check Sracom Button Position [[site]](https://github.com/tacck/sora-btn)                                       | Web + IoT    | Node.js + Vue.js + Leaflet | 2019/08/07 |
-| Simple OSM [[site]](https://github.com/tacck/simple-osm)                                                       | Web          | Vue.js + Leaflet           | 2019/07/21 |
-| Sapporo City WiFi Map [[site]](https://github.com/tacck/SapporoWiFiMap)                                        | Web          | Vue.js + Leaflet           | 2019/07/12 |
-| SmaspiAlexaSample (勉強会での解説用) [[site]](https://github.com/tacck/SmaspiAlexaSample)                      | Alexa Skill  | Node.js                    | 2019/06/25 |
-| PHPFizzBuzzTraining (勉強会での解説用) [[site]](https://github.com/tacck/PHPFizzBuzzTraining)                  | Console      | PHP                        | 2019.03.24 |
-| PHPJapaneseEraTraining (勉強会での解説用)  [[site]](https://github.com/tacck/PHPJapaneseEraTraining)           | Console      | PHP                        | 2018.03.22 |
-| listall [[site]](https://github.com/tacck/listall)                                                             | Web          | PHP / Laravel              | 2018.01.02 |
-| rp-node-led [[site]](https://github.com/tacck/rp-node-led)                                                     | Raspberry Pi | Node.js                    | 2017.12.17 |
-| ansible-module-notification-chatwork [[site]](https://github.com/tacck/ansible-module-notification-chatwork)   | Ansible      | Python                     | 2017.07.30 |
-| SmartMirrorRaspberryPi [[site]](https://github.com/tacck/SmartMirrorRaspberryPi)                               | Raspberry Pi | JavaScript / Python / PHP  | 2016.08.19 |
-| NormalCalc [[site]](https://github.com/tacck/NormalCalc)                                                       | Android      | Java                       | 2013.07.09 |
-| EML Simulator for Android (eml_simulator_android) [[site]](https://bitbucket.org/tacck/eml_simulator_android/) | Android      | Java                       | 2012.12.02 |
+| Title                                                                                                          | Types                                  | Language                   | Created At |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------- | -------------------------- | :--------: |
+| Show Today Tasks Lambda [[site]](https://github.com/tacck/show-today-tasks-lambda)                             | Actions on Google                      | Lambda Function (Node.js)  | 2019/10/10 |
+| Show Today Tasks [[site]](https://github.com/tacck/show-today-tasks)                                           | Actions on Google (Interactive Campus) | Vue.js                     | 2019/09/27 |
+| VuePress and Vue-Google-AdSense Sample [[site]](https://github.com/tacck/vuepress-google-adsense-sample)       | Web                                    | VuePress (Vue.js)          | 2019/09/10 |
+| Check Sracom Button Position [[site]](https://github.com/tacck/sora-btn)                                       | Web + IoT                              | Node.js + Vue.js + Leaflet | 2019/08/07 |
+| Simple OSM [[site]](https://github.com/tacck/simple-osm)                                                       | Web                                    | Vue.js + Leaflet           | 2019/07/21 |
+| Sapporo City WiFi Map [[site]](https://github.com/tacck/SapporoWiFiMap)                                        | Web                                    | Vue.js + Leaflet           | 2019/07/12 |
+| SmaspiAlexaSample (勉強会での解説用) [[site]](https://github.com/tacck/SmaspiAlexaSample)                      | Alexa Skill                            | Node.js                    | 2019/06/25 |
+| PHPFizzBuzzTraining (勉強会での解説用) [[site]](https://github.com/tacck/PHPFizzBuzzTraining)                  | Console                                | PHP                        | 2019/03/24 |
+| PHPJapaneseEraTraining (勉強会での解説用)  [[site]](https://github.com/tacck/PHPJapaneseEraTraining)           | Console                                | PHP                        | 2018/03/22 |
+| listall [[site]](https://github.com/tacck/listall)                                                             | Web                                    | PHP / Laravel              | 2018/01/02 |
+| rp-node-led [[site]](https://github.com/tacck/rp-node-led)                                                     | Raspberry Pi                           | Node.js                    | 2017/12/17 |
+| ansible-module-notification-chatwork [[site]](https://github.com/tacck/ansible-module-notification-chatwork)   | Ansible                                | Python                     | 2017/07/30 |
+| SmartMirrorRaspberryPi [[site]](https://github.com/tacck/SmartMirrorRaspberryPi)                               | Raspberry Pi                           | JavaScript / Python / PHP  | 2016/08/19 |
+| NormalCalc [[site]](https://github.com/tacck/NormalCalc)                                                       | Android                                | Java                       | 2013/07/09 |
+| EML Simulator for Android (eml_simulator_android) [[site]](https://bitbucket.org/tacck/eml_simulator_android/) | Android                                | Java                       | 2012/12/02 |
 
 ## Wrote Document
 
@@ -44,39 +47,40 @@
 
 | Title                                                                            | Updated At | Status |
 | :------------------------------------------------------------------------------- | :--------: | :----: |
-| [VuePress and Vue-Google-AdSense](https://vuepress-google-adsense.doc.tacck.net) | 2019.09.10 |  Open  |
-| [Laravel+TDDの基礎](https://laravel-tdd.doc.tacck.net)                           | 2018.10.16 |  Open  |
+| [VuePress and Vue-Google-AdSense](https://vuepress-google-adsense.doc.tacck.net) | 2019/09/10 |  Open  |
+| [Laravel+TDDの基礎](https://laravel-tdd.doc.tacck.net)                           | 2018/10/16 |  Open  |
 
 ### Slides
 
-| Title                                                                                                                                                                                                        | Meetup                                       | Created At |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | :--------: |
-| [SORACOM の “あのボタン” で遊んでみる](https://speakerdeck.com/tacck/number-soracom-false-afalsebotan-deyou-ndemiru-number-iotltzha-huang)                                                                   | IoTLT札幌Vol.6                               | 2019/09/08 |
-| [遊んで学ぶ Visual Studio Code の Remote Development](https://speakerdeck.com/tacck/you-ndexue-bu-visual-studio-code-false-remote-development-number-yuruwebzha-huang)                                       | ゆるWeb勉強会@札幌 #6                        | 2019/08/31 |
-| [20年前の私へ - 普通のエンジニアを楽しんで生きる](https://speakerdeck.com/tacck/20nian-qian-falsesi-he-pu-tong-falseenziniawole-sindesheng-kiru-number-kosenconf131hokkaido)                                 | 高専カンファレンス in 北海道 2019            | 2019/08/17 |
-| [Alexaで地図を表示したい話](https://speakerdeck.com/tacck/alexadedi-tu-wobiao-shi-sitaihua-number-sumatosupikamiteingu)                                                                                      | スマートスピーカーミーティング               | 2019/07/25 |
-| [スマートスピーカーで遊ぼう会@札幌 目指せ! Alexa Developer スキルアワード](https://speakerdeck.com/tacck/mu-zhi-se-alexa-developer-sukiruawado)                                                              | スマートスピーカーで遊ぼう会@札幌 #2         | 2019/06/21 |
-| [Monaca初心者がVue.jsでアプリを作ってみた](https://speakerdeck.com/tacck/monacachu-xin-zhe-gavue-dot-jsdeapuriwozuo-tutemita-number-monaca-ug-number-yuruwebzha-huang)                                       | ゆるWeb勉強会@札幌 with Monaca UG in Sapporo | 2019/05/30 |
-| [「にゃーん」となくWebアプリを作った話](https://speakerdeck.com/tacck/niyan-tonakuwebapuriwozuo-tutahua-number-yuruwebzha-huang)                                                                             | ゆるWeb勉強会@札幌 #5                        | 2019/05/17 |
-| [PHPerが聞きたいPythonのいくつかのこと](https://speakerdeck.com/tacck/phpergawen-kitaipythonfalseikutukafalsekoto-pycon-mini-sapporo-2019-number-pyconsap)                                                   | PyCon mini Sapporo 2019                      | 2019/05/11 |
-| [NOIDを使ってみる](https://speakerdeck.com/tacck/noidwoshi-tutemiru-sumatosupikadeyou-bouhui-at-zha-huang-number-sumasupizha-huang)                                                                          | スマートスピーカーで遊ぼう会@札幌 #1         | 2019/04/24 |
-| [Alexa Skill Blueprints を使ってみる~ スマートスピーカーで遊ぼう会@札幌](https://speakerdeck.com/tacck/alexa-skill-blueprints-woshi-tutemiru-sumatosupikadeyou-bouhui-at-zha-huang-number-sumasupizha-huang) | スマートスピーカーで遊ぼう会@札幌 #1         | 2019/04/24 |
-| [スマートスピーカーで遊ぼう会@札幌](https://speakerdeck.com/tacck/sumatosupikadeyou-bouhui-at-zha-huang-number-sumasupizha-huang)                                                                            | スマートスピーカーで遊ぼう会@札幌 #1         | 2019/04/24 |
-| [PHPでFizzBuzz問題をやってみよう](https://speakerdeck.com/tacck/phpde-fizzbuzzwen-ti-woyatutemiyou-number-yuruwebzha-huang)                                                                                  | ゆるWeb勉強会@札幌 #4                        | 2019/03/30 |
-| [ひよこから始める勉強会](https://speakerdeck.com/tacck/hiyokokarashi-merumian-qiang-hui-zha-huang-ithiyokohui-number-3-number-devpiyo)                                                                       | 「札幌ITひよこ会」#3                         | 2019/03/16 |
-| [急いで話すAlexaスキルとRaspberry Piの連携 ~Node-REDを添えて](https://speakerdeck.com/tacck/ji-idehua-sualexasukirutoraspberry-pifalselian-xi-node-redwotian-ete)                                            | IoTLT札幌 Vol.05                             | 2019/01/20 |
-| [VS Codeでデバッグしよう JavaScript編](https://speakerdeck.com/tacck/vs-codededebatugusiyou-javascriptbian)                                                                                                  | ゆるWeb勉強会@札幌 #3                        | 2019/01/19 |
-| [Webで自動化って どういうこと? - 大まかに理解する自動化の入り口の話](https://speakerdeck.com/tacck/webdezi-dong-hua-tute-douiukoto-da-makanili-jie-suru-zi-dong-hua-falseru-rikou-falsehua)                  | ゆるWeb勉強会@札幌 #2                        | 2018/11/09 |
-| 社内研修でTDDをやってみたお話 ~PHP版 (unpublished)                                                                                                                                                           | プレPHPカンファレンス北海道 (canceled)       | 2018/09/08 |
-| [VS Live Shareを使った1対多のライブコーディング](https://speakerdeck.com/tacck/vs-live-sharewoshi-tuta-1dui-duo-falseraibukodeingu)                                                                          | ゆるWeb勉強会@札幌 #1                        | 2018/08/28 |
-| M5StackでLT (unpublished)                                                                                                                                                                                    | Closed Meetup                                | 2018/06/21 |
-| 一週間でVue.jsを使えるようになりたいおじさんの話 (unpublished)                                                                                                                                               | SaCSS vol.94                                 | 2018/04/21 |
-| ラズパイでLT ~ラズパイの性能を少し覗いてみる〜 (unpublished)                                                                                                                                                 | Closed Meetup                                | 2017/10/18 |
-| よくあるリモートカメラの作成 (unpublished)                                                                                                                                                                   | IoTLT札幌 Vol.01                             | 2017/09/01 |
-| ラズパイ3のアツい紹介 (unpublished)                                                                                                                                                                          | Closed Meetup                                | 2016/05/12 |
-| 見える化のはじめの一歩 (unpublished)                                                                                                                                                                         | SaCSS vol.63                                 | 2015/03/07 |
-| モバイルアプリのお話 (ざっくり版) (unpublished)                                                                                                                                                             | Closed Meetup                                | 2014/02/28 |
-| [Androidアプリ屋だけどWebフロントエンド開発にアサインされた件について](https://www.slideshare.net/tacck/2013-08frontenddevelop)                                                                              | SaCSS vol.47                                 | 2013/08/24 |
+| Title                                                                                                                                                                                                        | Meetup                                                                      | Created At |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- | :--------: |
+| [「当たり前」のスマートスピーカーになるために](https://speakerdeck.com/tacck/dang-tariqian-falsesumatosupikaninarutameni-number-vuibu)                                                                       | [VUIのビジネスの未来を語る会＠札幌](https://vbu.connpass.com/event/146417/) | 2019/09/18 |
+| [SORACOM の “あのボタン” で遊んでみる](https://speakerdeck.com/tacck/number-soracom-false-afalsebotan-deyou-ndemiru-number-iotltzha-huang)                                                                   | IoTLT札幌Vol.6                                                              | 2019/09/08 |
+| [遊んで学ぶ Visual Studio Code の Remote Development](https://speakerdeck.com/tacck/you-ndexue-bu-visual-studio-code-false-remote-development-number-yuruwebzha-huang)                                       | ゆるWeb勉強会@札幌 #6                                                       | 2019/08/31 |
+| [20年前の私へ - 普通のエンジニアを楽しんで生きる](https://speakerdeck.com/tacck/20nian-qian-falsesi-he-pu-tong-falseenziniawole-sindesheng-kiru-number-kosenconf131hokkaido)                                 | 高専カンファレンス in 北海道 2019                                           | 2019/08/17 |
+| [Alexaで地図を表示したい話](https://speakerdeck.com/tacck/alexadedi-tu-wobiao-shi-sitaihua-number-sumatosupikamiteingu)                                                                                      | スマートスピーカーミーティング                                              | 2019/07/25 |
+| [スマートスピーカーで遊ぼう会@札幌 目指せ! Alexa Developer スキルアワード](https://speakerdeck.com/tacck/mu-zhi-se-alexa-developer-sukiruawado)                                                              | スマートスピーカーで遊ぼう会@札幌 #2                                        | 2019/06/21 |
+| [Monaca初心者がVue.jsでアプリを作ってみた](https://speakerdeck.com/tacck/monacachu-xin-zhe-gavue-dot-jsdeapuriwozuo-tutemita-number-monaca-ug-number-yuruwebzha-huang)                                       | ゆるWeb勉強会@札幌 with Monaca UG in Sapporo                                | 2019/05/30 |
+| [「にゃーん」となくWebアプリを作った話](https://speakerdeck.com/tacck/niyan-tonakuwebapuriwozuo-tutahua-number-yuruwebzha-huang)                                                                             | ゆるWeb勉強会@札幌 #5                                                       | 2019/05/17 |
+| [PHPerが聞きたいPythonのいくつかのこと](https://speakerdeck.com/tacck/phpergawen-kitaipythonfalseikutukafalsekoto-pycon-mini-sapporo-2019-number-pyconsap)                                                   | PyCon mini Sapporo 2019                                                     | 2019/05/11 |
+| [NOIDを使ってみる](https://speakerdeck.com/tacck/noidwoshi-tutemiru-sumatosupikadeyou-bouhui-at-zha-huang-number-sumasupizha-huang)                                                                          | スマートスピーカーで遊ぼう会@札幌 #1                                        | 2019/04/24 |
+| [Alexa Skill Blueprints を使ってみる~ スマートスピーカーで遊ぼう会@札幌](https://speakerdeck.com/tacck/alexa-skill-blueprints-woshi-tutemiru-sumatosupikadeyou-bouhui-at-zha-huang-number-sumasupizha-huang) | スマートスピーカーで遊ぼう会@札幌 #1                                        | 2019/04/24 |
+| [スマートスピーカーで遊ぼう会@札幌](https://speakerdeck.com/tacck/sumatosupikadeyou-bouhui-at-zha-huang-number-sumasupizha-huang)                                                                            | スマートスピーカーで遊ぼう会@札幌 #1                                        | 2019/04/24 |
+| [PHPでFizzBuzz問題をやってみよう](https://speakerdeck.com/tacck/phpde-fizzbuzzwen-ti-woyatutemiyou-number-yuruwebzha-huang)                                                                                  | ゆるWeb勉強会@札幌 #4                                                       | 2019/03/30 |
+| [ひよこから始める勉強会](https://speakerdeck.com/tacck/hiyokokarashi-merumian-qiang-hui-zha-huang-ithiyokohui-number-3-number-devpiyo)                                                                       | 「札幌ITひよこ会」#3                                                        | 2019/03/16 |
+| [急いで話すAlexaスキルとRaspberry Piの連携 ~Node-REDを添えて](https://speakerdeck.com/tacck/ji-idehua-sualexasukirutoraspberry-pifalselian-xi-node-redwotian-ete)                                            | IoTLT札幌 Vol.05                                                            | 2019/01/20 |
+| [VS Codeでデバッグしよう JavaScript編](https://speakerdeck.com/tacck/vs-codededebatugusiyou-javascriptbian)                                                                                                  | ゆるWeb勉強会@札幌 #3                                                       | 2019/01/19 |
+| [Webで自動化って どういうこと? - 大まかに理解する自動化の入り口の話](https://speakerdeck.com/tacck/webdezi-dong-hua-tute-douiukoto-da-makanili-jie-suru-zi-dong-hua-falseru-rikou-falsehua)                  | ゆるWeb勉強会@札幌 #2                                                       | 2018/11/09 |
+| 社内研修でTDDをやってみたお話 ~PHP版 (unpublished)                                                                                                                                                           | プレPHPカンファレンス北海道 (canceled)                                      | 2018/09/08 |
+| [VS Live Shareを使った1対多のライブコーディング](https://speakerdeck.com/tacck/vs-live-sharewoshi-tuta-1dui-duo-falseraibukodeingu)                                                                          | ゆるWeb勉強会@札幌 #1                                                       | 2018/08/28 |
+| M5StackでLT (unpublished)                                                                                                                                                                                    | Closed Meetup                                                               | 2018/06/21 |
+| 一週間でVue.jsを使えるようになりたいおじさんの話 (unpublished)                                                                                                                                               | SaCSS vol.94                                                                | 2018/04/21 |
+| ラズパイでLT ~ラズパイの性能を少し覗いてみる〜 (unpublished)                                                                                                                                                 | Closed Meetup                                                               | 2017/10/18 |
+| よくあるリモートカメラの作成 (unpublished)                                                                                                                                                                   | IoTLT札幌 Vol.01                                                            | 2017/09/01 |
+| ラズパイ3のアツい紹介 (unpublished)                                                                                                                                                                          | Closed Meetup                                                               | 2016/05/12 |
+| 見える化のはじめの一歩 (unpublished)                                                                                                                                                                         | SaCSS vol.63                                                                | 2015/03/07 |
+| モバイルアプリのお話 (ざっくり版) (unpublished)                                                                                                                                                             | Closed Meetup                                                               | 2014/02/28 |
+| [Androidアプリ屋だけどWebフロントエンド開発にアサインされた件について](https://www.slideshare.net/tacck/2013-08frontenddevelop)                                                                              | SaCSS vol.47                                                                | 2013/08/24 |
 
 ## Local Tech Meetup
 
