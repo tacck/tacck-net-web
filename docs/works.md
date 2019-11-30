@@ -8,6 +8,7 @@
 
 | Title                                                                                                                                                          | Types            | Created At |  Status   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | :--------: | :-------: |
+| 郵便受け通知システム                                                                             | IoT      | 2019/10/16 |   Private    |
 | 簡単ペアメーカー [[Alexa Skill Store]](https://www.amazon.co.jp/dp/B07XXTZ8DR/)                                                                                | Alexa Skill      | 2019/09/16 |   Open    |
 | Check Sracom Button Position                                                                                                                                   | Web + IoT        | 2019/08/07 |  Limited  |
 | Simple OSM [[site]](https://osm.t88.jp)                                                                                                                        | Web              | 2019/07/21 |   Open    |
@@ -54,6 +55,8 @@
 
 | Title                                                                                                                                                                                                        | Meetup                                                                      | Created At |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- | :--------: |
+| [勝手にご紹介!! SORACOM LTE-M Button](https://speakerdeck.com/tacck/sheng-shou-nigoshao-jie-soracom-lte-m-button-number-iotlt-f2cd6637-18e9-4a08-9a30-1380e337a749)        | [鋳造IoTLT #2@札幌](https://iotlt.connpass.com/event/154347/) | 2019/11/28 |
+| [#ひげボタン を使って楽しくちょっと便利な生活](https://speakerdeck.com/tacck/number-higebotan-woshi-tutele-sikutiyotutobian-li-nasheng-huo-number-soracomug)        | [SORACOM UG 札幌 #1](https://soracomug-tokyo.connpass.com/event/147136/) | 2019/11/12 |
 | ["Laravel/ui" 使い始め](https://speakerdeck.com/tacck/ui-shi-ishi-me-number-larasap)        | [Laravel x Vue.js 勉強会 in ゆめみ札幌 vol.2](https://larasap.connpass.com/event/148886/) | 2019/10/31 |
 | [フロントエンドに優しいスマートスピーカースキルの作り方](https://speakerdeck.com/tacck/hurontoendoniyou-siisumatosupikasukirufalsezuo-rifang-number-yuruwebzha-huang)        | [ゆるWeb勉強会@札幌 #7](https://mild-web-sap.connpass.com/event/147756/) | 2019/10/26 |
 | [フロントエンドの人に勧めるスマートスピーカースキル作成のハナシ](https://speakerdeck.com/tacck/hurontoendofalseren-niquan-merusumatosupikasukiruzuo-cheng-falsehanasi-number-sacss)        | [SaCSS vol.107](https://connpass.com/event/147812/) | 2019/10/16 |
