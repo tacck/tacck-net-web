@@ -10,8 +10,10 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "devDependencies": {},
   "dependencies": {
     "vuepress": "^1.0.2"
+  },
+  "devDependencies": {
+    "vuepress-plugin-sidebar": "^0.1.0"
   }
 }

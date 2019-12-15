@@ -5,14 +5,17 @@ module.exports = {
   themeConfig: {
     lastUpdated: 'Last Updated (JST)',
     nav: [
-      { text: 'Home', link: '/' },
-    ],
-    sidebar: [
-      '/',
-      '/about',
-      '/works',
-      ['https://meetup.tacck.net/', 'Meetups'],
-      ['https://blog.tacck.net', 'Tech Blog']
+      { text: 'Home', link: '/' }
     ]
-  }
+  },
+  plugins: [
+    [
+      'sidebar', {
+        postItems: [
+          ['https://meetup.tacck.net/', 'Meetups'],
+          ['https://blog.tacck.net', 'Tech Blog']
+        ]
+      }
+    ]
+  ]
 }
