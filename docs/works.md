@@ -8,15 +8,15 @@
 
 | Title                                                                                                                                                          | Types                         | Created At |  Status   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | :--------: | :-------: |
-| vuepress-plugin-sidebar [[site]](https://www.npmjs.com/package/vuepress-plugin-sidebar)                                                                               | VuePress Plugin / NPM Package | 2019/12/15 |   Open    |
+| vuepress-plugin-sidebar [[site]](https://www.npmjs.com/package/vuepress-plugin-sidebar)                                                                        | VuePress Plugin / NPM Package | 2019/12/15 |   Open    |
 | 郵便受け通知システム                                                                                                                                           | IoT                           | 2019/10/16 |  Private  |
 | 簡単ペアメーカー [[Alexa Skill Store]](https://www.amazon.co.jp/dp/B07XXTZ8DR/)                                                                                | Alexa Skill                   | 2019/09/16 |   Open    |
 | Check Sracom Button Position                                                                                                                                   | Web + IoT                     | 2019/08/07 |  Limited  |
 | Simple OSM [[site]](https://osm.t88.jp)                                                                                                                        | Web                           | 2019/07/21 |   Open    |
 | Sapporo City WiFi Map [[site]](https://sap-wifi-map.tacck.net)                                                                                                 | Web                           | 2019/07/12 |   Open    |
-| Nyan Nyan Nyan [[site]](https://nyan3.tacck.net)                                                                                                               | Web                           | 2018/10.16 |   Open    |
-| いつものチェック [[Clova Skill Store]](https://clova-skill-store.line.me/appbridge#target=extensionDetail&extensionId=net.tacck.apps.clova.confirm_lost_items) | Clova Extensions              | 2018/10.06 |   Open    |
-| りすとる / listall                                                                                                                                             | Web                           | 2018/01.02 |  Private  |
+| Nyan Nyan Nyan [[site]](https://nyan3.tacck.net)                                                                                                               | Web                           | 2018/10/16 |   Open    |
+| いつものチェック [[Clova Skill Store]](https://clova-skill-store.line.me/appbridge#target=extensionDetail&extensionId=net.tacck.apps.clova.confirm_lost_items) | Clova Extensions              | 2018/10/06 |   Open    |
+| りすとる / listall                                                                                                                                             | Web                           | 2018/01/02 |  Private  |
 | Push & Done!                                                                                                                                                   | Android                       | 2013/07/29 |  Closed   |
 | 色さがし / Color Scheme Checker                                                                                                                                | Android                       | 2013/06/02 |  Closed   |
 | EML Simulator for Android [[site]](https://bitbucket.org/tacck/eml_simulator_android/wiki/Home)                                                                | Android                       | 2012/12/02 | Code Only |
@@ -36,7 +36,7 @@
 | Sapporo City WiFi Map [[site]](https://github.com/tacck/SapporoWiFiMap)                                        | Web                                    | Vue.js + Leaflet           | 2019/07/12 |
 | SmaspiAlexaSample (勉強会での解説用) [[site]](https://github.com/tacck/SmaspiAlexaSample)                      | Alexa Skill                            | Node.js                    | 2019/06/25 |
 | PHPFizzBuzzTraining (勉強会での解説用) [[site]](https://github.com/tacck/PHPFizzBuzzTraining)                  | Console                                | PHP                        | 2019/03/24 |
-| PHPJapaneseEraTraining (勉強会での解説用)  [[site]](https://github.com/tacck/PHPJapaneseEraTraining)           | Console                                | PHP                        | 2018/03/22 |
+| PHPJapaneseEraTraining (勉強会での解説用)  [[site]](https://github.com/tacck/PHPJapaneseEraTraining)           | Console                                | PHP                        | 2019/03/22 |
 | listall [[site]](https://github.com/tacck/listall)                                                             | Web                                    | PHP / Laravel              | 2018/01/02 |
 | rp-node-led [[site]](https://github.com/tacck/rp-node-led)                                                     | Raspberry Pi                           | Node.js                    | 2017/12/17 |
 | ansible-module-notification-chatwork [[site]](https://github.com/tacck/ansible-module-notification-chatwork)   | Ansible                                | Python                     | 2017/07/30 |
