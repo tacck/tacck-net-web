@@ -6,19 +6,20 @@
 
 ## Created Apps
 
-| Title                                                                                                                                                          | Types            | Created At |  Status   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | :--------: | :-------: |
-| 郵便受け通知システム                                                                                                                                           | IoT              | 2019/10/16 |  Private  |
-| 簡単ペアメーカー [[Alexa Skill Store]](https://www.amazon.co.jp/dp/B07XXTZ8DR/)                                                                                | Alexa Skill      | 2019/09/16 |   Open    |
-| Check Sracom Button Position                                                                                                                                   | Web + IoT        | 2019/08/07 |  Limited  |
-| Simple OSM [[site]](https://osm.t88.jp)                                                                                                                        | Web              | 2019/07/21 |   Open    |
-| Sapporo City WiFi Map [[site]](https://sap-wifi-map.tacck.net)                                                                                                 | Web              | 2019/07/12 |   Open    |
-| Nyan Nyan Nyan [[site]](https://nyan3.tacck.net)                                                                                                               | Web              | 2018/10.16 |   Open    |
-| いつものチェック [[Clova Skill Store]](https://clova-skill-store.line.me/appbridge#target=extensionDetail&extensionId=net.tacck.apps.clova.confirm_lost_items) | Clova Extensions | 2018/10.06 |   Open    |
-| りすとる / listall                                                                                                                                             | Web              | 2018/01.02 |  Private  |
-| Push & Done!                                                                                                                                                   | Android          | 2013/07/29 |  Closed   |
-| 色さがし / Color Scheme Checker                                                                                                                                | Android          | 2013/06/02 |  Closed   |
-| EML Simulator for Android [[site]](https://bitbucket.org/tacck/eml_simulator_android/wiki/Home)                                                                | Android          | 2012/12/02 | Code Only |
+| Title                                                                                                                                                          | Types                         | Created At |  Status   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | :--------: | :-------: |
+| vuepress-plugin-sidebar [[site]](https://www.npmjs.com/package/vuepress-plugin-sidebar)                                                                               | VuePress Plugin / NPM Package | 2019/12/15 |   Open    |
+| 郵便受け通知システム                                                                                                                                           | IoT                           | 2019/10/16 |  Private  |
+| 簡単ペアメーカー [[Alexa Skill Store]](https://www.amazon.co.jp/dp/B07XXTZ8DR/)                                                                                | Alexa Skill                   | 2019/09/16 |   Open    |
+| Check Sracom Button Position                                                                                                                                   | Web + IoT                     | 2019/08/07 |  Limited  |
+| Simple OSM [[site]](https://osm.t88.jp)                                                                                                                        | Web                           | 2019/07/21 |   Open    |
+| Sapporo City WiFi Map [[site]](https://sap-wifi-map.tacck.net)                                                                                                 | Web                           | 2019/07/12 |   Open    |
+| Nyan Nyan Nyan [[site]](https://nyan3.tacck.net)                                                                                                               | Web                           | 2018/10.16 |   Open    |
+| いつものチェック [[Clova Skill Store]](https://clova-skill-store.line.me/appbridge#target=extensionDetail&extensionId=net.tacck.apps.clova.confirm_lost_items) | Clova Extensions              | 2018/10.06 |   Open    |
+| りすとる / listall                                                                                                                                             | Web                           | 2018/01.02 |  Private  |
+| Push & Done!                                                                                                                                                   | Android                       | 2013/07/29 |  Closed   |
+| 色さがし / Color Scheme Checker                                                                                                                                | Android                       | 2013/06/02 |  Closed   |
+| EML Simulator for Android [[site]](https://bitbucket.org/tacck/eml_simulator_android/wiki/Home)                                                                | Android                       | 2012/12/02 | Code Only |
 
 ## Wrote Codes
 
@@ -26,6 +27,7 @@
 
 | Title                                                                                                          | Types                                  | Language                   | Created At |
 | -------------------------------------------------------------------------------------------------------------- | -------------------------------------- | -------------------------- | :--------: |
+| vuepress-plugin-sidebar [[site]](https://github.com/tacck/vuepress-plugin-sidebar)                             | VuePress Plugin / NPM Package          | Node.js                    | 2019/12/15 |
 | Show Today Tasks Lambda [[site]](https://github.com/tacck/show-today-tasks-lambda)                             | Actions on Google                      | Lambda Function (Node.js)  | 2019/10/10 |
 | Show Today Tasks [[site]](https://github.com/tacck/show-today-tasks)                                           | Actions on Google (Interactive Campus) | Vue.js                     | 2019/09/27 |
 | VuePress and Vue-Google-AdSense Sample [[site]](https://github.com/tacck/vuepress-google-adsense-sample)       | Web                                    | VuePress (Vue.js)          | 2019/09/10 |
