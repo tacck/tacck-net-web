@@ -10,6 +10,10 @@ module.exports = {
   },
   plugins: [
     [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-89701884-5'
+      },
       'sidebar', {
         postItems: [
           ['https://meetup.tacck.net/', 'Meetups'],
