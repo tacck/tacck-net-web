@@ -8,6 +8,7 @@
 
 | Title                                                                                                                                                          | Types                         | Created At |  Status   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | :--------: | :-------: |
+| Emofull [[site]](https://emofull.com/)                                                                        | Web / AWS Amplify | 2020/07/05 |   Open    |
 | vuepress-plugin-sidebar [[site]](https://www.npmjs.com/package/vuepress-plugin-sidebar)                                                                        | VuePress Plugin / NPM Package | 2019/12/15 |   Open    |
 | 郵便受け通知システム                                                                                                                                           | IoT                           | 2019/10/16 |  Private  |
 | 簡単ペアメーカー [[Alexa Skill Store]](https://www.amazon.co.jp/dp/B07XXTZ8DR/)                                                                                | Alexa Skill                   | 2019/09/16 |   Open    |
@@ -27,6 +28,10 @@
 
 | Title                                                                                                          | Types                                  | Language                   | Created At |
 | -------------------------------------------------------------------------------------------------------------- | -------------------------------------- | -------------------------- | :--------: |
+| sample-amplify-fortune [[site]](https://github.com/tacck/sample-amplify-fortune)                             | Web / AWS Amplify           | Vue.js                    | 2021/02/08 |
+| sample-amplify-subscriptions [[site]](https://github.com/tacck/sample-amplify-subscriptions)                             | Web / AWS Amplify          | Vue.js                    | 2021/01/03 |
+| amplify-fargate-laravel-sample [[site]](https://github.com/tacck/amplify-fargate-laravel-sample)                             | AWS Amplify           | Dockerfile                    | 2020/12/15 |
+| refactoring-sec1-starter [[site]](https://github.com/tacck/refactoring-sec1-starter)                             | Console          | Node.js                    | 2020/09/08 |
 | vuepress-plugin-sidebar [[site]](https://github.com/tacck/vuepress-plugin-sidebar)                             | VuePress Plugin / NPM Package          | Node.js                    | 2019/12/15 |
 | Show Today Tasks Lambda [[site]](https://github.com/tacck/show-today-tasks-lambda)                             | Actions on Google                      | Lambda Function (Node.js)  | 2019/10/10 |
 | Show Today Tasks [[site]](https://github.com/tacck/show-today-tasks)                                           | Actions on Google (Interactive Campus) | Vue.js                     | 2019/09/27 |
@@ -50,6 +55,7 @@
 
 | Title                                                                            | Updated At | Status |
 | :------------------------------------------------------------------------------- | :--------: | :----: |
+| [AWS Amplify Subscriptions Usage Series](https://dev.to/tacck/series/11192) | 2021/02/24 |  Open  |
 | [VuePress and Vue-Google-AdSense](https://vuepress-google-adsense.doc.tacck.net) | 2019/09/10 |  Open  |
 | [Laravel+TDDの基礎](https://laravel-tdd.doc.tacck.net)                           | 2018/10/16 |  Open  |
 
@@ -57,6 +63,20 @@
 
 | Title                                                                                                                                                                                                        | Meetup                                                                                                                                                                                                     | Created At |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: |
+| [コードで確認する、AWS Amplify API (GraphQL) Subscriptions によるリアルタイム通知のパターン](https://speakerdeck.com/tacck/kododeque-ren-suru-aws-amplify-api-graphql-subscriptions-niyoruriarutaimutong-zhi-falsepatan-number-jawsdays2021-number-jawsdays2021-c)                                                   | [JAWS DAYS 2021](https://jawsdays2021.jaws-ug.jp/timetable/track-c-1300/) | 2021/03/20 |
+| [LTE-M Button でクリスマスツリーを光らせたかった話](https://speakerdeck.com/tacck/lte-m-button-dekurisumasuturiwoguang-rasetakatutahua-number-soracomug)                                                   | [SORACOM UG Online #3](https://soracomug-tokyo.connpass.com/event/201602/) | 2021/01/28 |
+| [アイテム登録サービス作っています](https://speakerdeck.com/tacck/aitemudeng-lu-sabisuzuo-tuteimasu-number-yuruwebzha-huang)                                                   | [ゆるWeb勉強会@札幌 OnLine #11](https://mild-web-sap.connpass.com/event/197638/) | 2020/12/28 |
+| [AWS Amplify で作ったものを振り返る(2020年版)](https://speakerdeck.com/tacck/aws-amplify-dezuo-tutamofalsewozhen-rifan-ru-2020nian-ban-number-yuruwebzha-huang)                                                   | [ゆるWeb勉強会@札幌 OnLine #10](https://mild-web-sap.connpass.com/event/193518/) | 2020/11/30 |
+| [「ゴールの無いチーム」との走り方](https://speakerdeck.com/tacck/gorufalsewu-itimu-tofalsezou-rifang-number-jbug-number-jbugzha-huang)                                                   | [JBUG札幌 #7 初めてのオンライン！試される大地のプロジェクトマネジメント](https://jbug.connpass.com/event/191071/) | 2020/10/30 |
+| [リファクタリング第２版 第1章のリファクタリングをやってみる]()                                                   | [ゆるWeb勉強会@札幌 OnLine #9](https://mild-web-sap.connpass.com/event/192074/) | 2020/10/26 |
+| [Amplify で社内ツールを作ったら地方の新聞に取材してもらえた話](https://speakerdeck.com/tacck/amplify-deshe-nei-turuwozuo-tutaradi-fang-falsexin-wen-niqu-cai-sitemoraetahua-number-yuruwebzha-huang)                                                   | [ゆるWeb勉強会@札幌 OnLine #8](https://mild-web-sap.connpass.com/event/185835/) | 2020/08/24 |
+| [フィギュアスケートのジャンプで見るデシジョンテーブル](https://speakerdeck.com/tacck/huigiyuasuketofalseziyanpudejian-rudesiziyonteburu)                                                   | In-house LT | 2020/08/13 |
+| [Amplify API (GraphQL) が簡単すぎて泣けてくる](https://speakerdeck.com/tacck/amplify-api-graphql-gajian-dan-sugiteqi-ketekuru-number-jawsug-asa-number-jawsug)                                                   | [JAWS-UG朝会 #11](https://jawsug-asa.connpass.com/event/180589/) | 2020/07/22 |
+| [Ansible + GitLab で楽に何度もデプロイする話](https://speakerdeck.com/tacck/ansible-plus-gitlab-dele-nihe-du-modepuroisuruhua-number-yuruwebzha-huang)                                                   | [ゆるWeb勉強会@札幌 #8 (中止)](https://mild-web-sap.connpass.com/event/164107/) | 2020/02/15 |
+| [今更 WebSocket を学んでみた話](https://speakerdeck.com/tacck/jin-geng-websocket-woxue-ndemitahua-number-sacss)                                                   | [SaCSS vol.111](https://connpass.com/event/164156/) | 2020/02/12 |
+| [今更 WebSocket で遊ぶ話](https://speakerdeck.com/tacck/jin-geng-websocket-deyou-buhua-number-javado)                                                   | [Java Doでしょう #17：Javaユーザーに伝えたい開発運用&フリーテーマ会！](https://javado.connpass.com/event/164021/) | 2020/02/09 |
+| [Google Nest Hub Interactive Canvasで苦労した話 (小ネタ)](https://speakerdeck.com/tacck/google-nest-hub-interactive-canvasdeku-lao-sitahua-xiao-neta-number-sumasupizha-huang-number-sumatosupikamiteingu)                                                   | [スマートスピーカーミーティング / スマートスピーカーで遊ぼう会@札幌 合同勉強会](https://play-smaspi-sap.connpass.com/event/159267/) | 2020/01/30 |
+| [WebSocket 使ってアンケートをやってみよう!](https://speakerdeck.com/tacck/websocket-shi-tuteanketowoyatutemiyou-number-bei-hai-dao-ltda-hui-number-yuruwebzha-huang)                                                   | [北海道）学生と社会人のライトニングトーク大会](https://hokkaido-lt-meetup.connpass.com/event/157248/) | 2020/01/18 |
 | [新人研修をBacklogで管理してみたら (仮)](https://speakerdeck.com/tacck/xin-ren-yan-xiu-wobacklogdeguan-li-sitemitara-jia-number-jbug-number-jbugzha-huang)                                                   | [JBUG札幌 #6 試される大地のプロジェクトマネジメント](https://jbug.connpass.com/event/147589/) / [JBUG 東京#13「平成から令和に、この1年のプロジェクトを振り返る」](https://jbug.connpass.com/event/151407/) | 2019/12/12 |
 | [勝手にご紹介!! SORACOM LTE-M Button](https://speakerdeck.com/tacck/sheng-shou-nigoshao-jie-soracom-lte-m-button-number-iotlt-f2cd6637-18e9-4a08-9a30-1380e337a749)                                          | [鋳造IoTLT #2@札幌](https://iotlt.connpass.com/event/154347/)                                                                                                                                              | 2019/11/28 |
 | [#ひげボタン を使って楽しくちょっと便利な生活](https://speakerdeck.com/tacck/number-higebotan-woshi-tutele-sikutiyotutobian-li-nasheng-huo-number-soracomug)                                                 | [SORACOM UG 札幌 #1](https://soracomug-tokyo.connpass.com/event/147136/)                                                                                                                                   | 2019/11/12 |
